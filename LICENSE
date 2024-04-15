@@ -1,0 +1,12 @@
+
+### Using the README.md
+
+To use this `README.md`:
+
+1. Copy the markdown content provided above.
+2. Open your GitHub repository where the Helm chart is located.
+3. Create a new file by clicking on "Add file" > "Create new file" and name it `README.md`.
+4. Paste the copied markdown content into the newly created `README.md` file.
+5. Commit the changes to your main branch, ensuring that the path is set to the root of your repository to display correctly on the repository's landing page.
+
+This `README.md` file will now serve as the primary guide for users who visit your Helm chart's GitHub repository, providing all the necessary instructions and details for using the chart effectively.
